@@ -1,10 +1,8 @@
-### Oi eu sou Luigi Oandil Cechinel
+### Oi eu sou o Luigi Oandil Cechinel, estudante de desenvolvimento a procura de uma oportunidade para mostrar meus conhecimentos!
 
 - 🔭 Estou trabalhando com HTML5, CSS e JAVASCRIPT
 - 🌱 Estou estudando PHP e SQL
 - 😄 Pronomes: Ele/Dele
-
-## Oi eu sou o Luigi Oandil Cechinel, estudante de desenvolvimento a procura de uma oportunidade para mostrar meus conhecimentos!
 
 <div align="center">
   <a href="https://github.com/LuigiOC">
