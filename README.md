@@ -1,7 +1,7 @@
 ### Oi eu sou o Luigi Oandil Cechinel, estudante de desenvolvimento a procura de uma oportunidade para mostrar meus conhecimentos!
 
-- 🔭 Estou trabalhando com HTML5, CSS e JAVASCRIPT
-- 🌱 Estou estudando PHP e SQL
+- 🔭 Estou trabalhando com HTML5, CSS(Com SCSS), JAVASCRIPT, SQL
+- 🌱 Estou estudando PHP, JAVA.
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
