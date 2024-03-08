@@ -2,7 +2,6 @@
 
 - 🔭 Estou trabalhando com HTML5, CSS(Com SCSS), JAVASCRIPT, SQL
 - 🌱 Estou estudando PHP, JAVA, REACT E ANGULAR
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/LuigiOC">
