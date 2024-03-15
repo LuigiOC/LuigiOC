@@ -1,8 +1,8 @@
 ### Oi eu sou o Luigi Oandil Cechinel, estudante de desenvolvimento a procura de uma oportunidade para mostrar meus conhecimentos!
 
-- 🔭 [Estou trabalhando com HTML5, CSS(Com SCSS), JAVASCRIPT, SQL]
-- 🌱 [Estou estudando PHP, JAVA, REACT E ANGULAR]
-- Linkedin [https://www.linkedin.com/in/luigi-oandil-8b11a4166/]
+- 🔭 Estou trabalhando com HTML5, CSS(Com SCSS), JAVASCRIPT, SQL
+- 🌱 Estou estudando PHP, JAVA, REACT E ANGULAR
+- 🌱 Linkedin [https://www.linkedin.com/in/luigi-oandil-8b11a4166/]
 
 <div align="center">
   <a href="https://github.com/LuigiOC">
