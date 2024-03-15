@@ -5,7 +5,6 @@
 
 <div align="center">
   <a href="https://github.com/LuigiOC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiOC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
 <div style="display: inline-block"><br>
